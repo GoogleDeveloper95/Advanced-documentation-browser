@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1T-2NyoufZw5nxhQ4MJSYDHhmin1jvMNy
+View My app in AI Studio: https://advanced-documentation-browser.netlify.app/
 
 ## Run Locally
 
